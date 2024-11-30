@@ -1,0 +1,258 @@
+.header{
+    background-color:rgb(1, 7, 10);
+    height: 60px;
+    width: 1400px;
+    
+}
+
+.logo{
+    padding-left: 50px;
+    padding-top: 5px;
+}
+.header2{
+
+    background-color: rgb(4, 152, 189);
+    height: 50px;
+    width: 1400px;
+    text-align: center;
+    padding-top: 18px;
+
+    
+    
+}
+
+.shd{
+
+  padding-left: 50px;
+    
+
+}
+.header3{
+    
+    background-color: rgb(0, 157, 255);
+    height: 60px;
+    width: 1400px;
+    text-align: center;
+     font-size: 20px;
+
+     
+}
+.shd3{
+   padding-top: 8px;
+   color: rgb(2, 41, 2);
+}
+.filter{
+    background-color: whitesmoke;
+    border:10px;
+    padding-left: 10px;
+    display: flex;
+}
+
+.trending2{
+    display: flex;
+    justify-content: space-between;
+    background-image: url(bg.jpg);
+    background-repeat: none;
+    
+
+}
+.sbg{
+    background-color: aquamarine;
+}
+.frame{
+    background-color: rgb(40, 99, 177);
+}
+.frame2{
+    background-color: rgb(69, 167, 194);
+}
+.olga{
+    background-color: rgb(136, 184, 38);
+}
+.olga2{
+    background-color: greenyellow;
+}
+button:hover{
+    background-color: rgb(229, 133, 8);
+    zoom: 1.8;
+}
+
+.neha{
+    background-color: rgb(247, 123, 7);
+    
+}
+.neha2{
+    background-color: rgb(151, 191, 21);
+    color: rgb(27, 35, 195);
+}
+.shreya{
+    background-color: rgb(29, 132, 222);
+}
+.shreya2{
+    background-color: rgb(144, 63, 220);
+    color: rgb(100, 227, 115);
+}
+.ind_raw1{
+    
+    background-color: aqua;
+    
+}
+.ind_raw2{
+    background-color: aquamarine;
+}
+.ind_subraw1{
+    background-color: yellowgreen;
+    
+}
+.ind_subraw2{
+    background-color: rgb(215, 130, 20);
+}
+
+.rus_raw1{
+    
+    background-color: rgb(215, 27, 174);
+    
+}
+.rus_raw2{
+    background-color: rgb(213, 176, 25);
+}
+.rus_subraw1{
+    
+    background-color: #eb0cdc7b;
+}
+.rus_subraw2{
+    
+    background-color: rgba(226, 37, 69, 0.294);
+}
+.ko_raw1{
+    
+    background-color: rgb(177, 202, 33);
+    
+}
+.ko_raw2{
+    background-color: rgb(213, 176, 25);
+}
+.ko_subraw1{
+   
+    background-color: rgba(152, 11, 228, 0.318);
+    
+}
+.ko_subraw2{
+    background-color: rgba(24, 186, 204, 0.569);
+}
+.br_raw1{
+    
+    background-color: rgb(69, 220, 24);
+    
+}
+.br_raw2{
+    background-color: rgb(219, 76, 195);
+}
+.br_subraw1{
+   
+    background-color: rgba(150, 226, 19, 0.213);
+    
+}
+.br_subraw2{
+    background-color: rgba(116, 51, 185, 0.59);
+}
+#secondsection{
+    background-image: url(bgicon.jpg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+.sec_font{
+    text-align: center;
+    color: rgb(216, 190, 23);
+    padding-top: 70px;
+}
+.choose{
+
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  padding: 20px;
+
+}
+.choose1{
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 200px;
+    width: 180px;
+     height: 100px;
+}
+.choosetext{
+
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    
+  
+  }
+  .choosen{
+
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    font-size: 24px;
+    color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 30px;
+  
+  }
+.choose1:hover{
+    background-color:rgb(95, 231, 16);
+    zoom: 2.1;
+}
+.choose2{
+    border: 1px solid white;
+    text-align: center;
+    border-radius: 200px;
+    width: 180px;
+     height: 100px;
+}
+.choose2:hover{
+    background-color:rgb(202, 231, 16);
+    zoom: 2.1;
+}
+.sub_head{
+    background-color: rgb(238, 157, 6);
+    width: 1000px;
+    height: 80px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 40px;
+    padding-left: 50px;
+}
+.maincontact{
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 200px;
+    justify-content: end;
+
+}
+.contact{
+    height: 60px;
+    width: 120px;
+    border-radius: 25px;
+    background-color: rgb(65, 177, 21);
+    border: 2px solid grey;
+    text-align: center;
+    font-size: 24px;
+   
+   
+    
+}
+.contact:hover{
+    background-color: aqua;
+    zoom: 1.5;
+}
+.ratings{
+    background-image: url(rating.jpg);
+    background-repeat: no-repeat;
+    background-position: cover;
+    height: 1500px;
+    width: 1500px;
+}
+
